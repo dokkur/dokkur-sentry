@@ -1,1 +1,1 @@
-FROM dokkur/sentry:0.3
+FROM dokkur/sentry:8.0.5
